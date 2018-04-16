@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\SampleCode-Unit018\\Unit018-PaperScissorsStoneGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "outputFile": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW4.2\\Unit018-PaperScissorsStoneGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ssuns\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\6f1d5c1716f53ea5fce439209a247130\\res\\values-es\\values-es.xml",
