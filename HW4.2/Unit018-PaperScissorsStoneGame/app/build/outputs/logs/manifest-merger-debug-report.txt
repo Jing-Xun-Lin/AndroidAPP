@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\3d98b1acce7ea92a8e04d10858e306cd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4fe1a0b75f687b7eec465e597d13dac2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\ef795f3dcbb2c6df15c41cc182168935\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\3d98b1acce7ea92a8e04d10858e306cd\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\3d98b1acce7ea92a8e04d10858e306cd\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4fe1a0b75f687b7eec465e597d13dac2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4fe1a0b75f687b7eec465e597d13dac2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\ef795f3dcbb2c6df15c41cc182168935\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\ef795f3dcbb2c6df15c41cc182168935\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.paperscissorsstonegame.MainActivity
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\3d98b1acce7ea92a8e04d10858e306cd\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\3d98b1acce7ea92a8e04d10858e306cd\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4fe1a0b75f687b7eec465e597d13dac2\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4fe1a0b75f687b7eec465e597d13dac2\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\ef795f3dcbb2c6df15c41cc182168935\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\ef795f3dcbb2c6df15c41cc182168935\AndroidManifest.xml:20:5-43
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ssuns\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\6f1d5c1716f53ea5fce439209a247130\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		ADDED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Course\AndroidStudioApplication\AndroidAPP\SampleCode-Unit018\Unit018-PaperScissorsStoneGame\app\src\main\AndroidManifest.xml
