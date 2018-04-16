@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ssuns.hw1.MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sex"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/inputSex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/EdtSex"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/age"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/inputAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/edtAge"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/confirm" />
+
+    <TextView
+        android:id="@+id/txtR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtR"
+        android:textSize="25sp" />
+</LinearLayout>
