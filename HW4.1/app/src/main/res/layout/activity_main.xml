@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="edu.ntut.user.myhw3.MainActivity">
+
+    <TextView
+        android:id="@+id/txtSex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sex"
+        android:textSize="18sp" />
+
+    <RadioGroup
+        android:id="@+id/radSexGrp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radSexBtn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/radSexBtn1" />
+
+        <RadioButton
+            android:id="@+id/radSexBtn2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/radSexBtn2" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/txtAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/age"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/spnAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/spnAgeMale" />
+
+    <TextView
+        android:id="@+id/txtHobbies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="興趣"
+        android:textSize="18sp" />
+
+    <ScrollView
+        android:id="@+id/scrollHobbies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/checkBoxMusic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="音樂" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="唱歌" />
+
+            <CheckBox
+                android:id="@+id/checkBoxDance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="跳舞" />
+
+            <CheckBox
+                android:id="@+id/checkBoxTravel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="旅行" />
+
+            <CheckBox
+                android:id="@+id/checkBoxRead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="閱讀" />
+
+            <CheckBox
+                android:id="@+id/checkBoxWriting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="寫作" />
+
+            <CheckBox
+                android:id="@+id/checkBoxClimbing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="爬山" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSwimming"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="游泳" />
+
+            <CheckBox
+                android:id="@+id/checkBoxeating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="美食" />
+
+            <CheckBox
+                android:id="@+id/checkBoxDrawing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="繪畫" />
+
+            <Button
+                android:id="@+id/btnOK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btnOK"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txtSug"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/suggestion"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txtHob"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtHob"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
