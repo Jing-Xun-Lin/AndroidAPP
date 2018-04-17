@@ -42,7 +42,7 @@ public class ImageAdapter extends BaseAdapter {
         if (convertView == null) {
             v = new ImageView(mContext);
             LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
+                    LinearLayout.LayoutParams.MATCH_PARENT,500);
             v.setLayoutParams(new GridView.LayoutParams(params));
             v.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
             v.setPadding(10, 10, 10, 10);
