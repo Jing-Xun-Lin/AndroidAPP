@@ -11,12 +11,14 @@ public class MainActivity extends AppCompatActivity implements MainFragment.Call
     private final static String TAG = "Result";
     private int mTagCount = 0;
     public MainFragment.GameResultType mGameResultType;
+    public  MainFragment mainFragment;
     public Fragment fragResult;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mainFragment = (MainFragment) getSupportFragmentManager().findFragmentById(R.id.fragMain);
     }
 
     @Override
@@ -31,9 +33,12 @@ public class MainActivity extends AppCompatActivity implements MainFragment.Call
                     ((GameResult2Fragment) fragResult).updateGameResult(iCountSet, iCountPlayerWin,
                             iCountComWin, iCountDraw);
                     break;
+            }
         }
     }
 
+    public void InvokeUpdateResult() {
+        mainFragment.UpdateResult();
     }
 
     @Override

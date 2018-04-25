@@ -44,6 +44,8 @@ public class GameResultFragment extends Fragment {
         ((MainActivity) getActivity()).fragResult = this;
 
         getActivity().findViewById(R.id.frameLay).setVisibility(View.VISIBLE);
+
+        ((MainActivity) getActivity()).InvokeUpdateResult();
     }
 
     @Override
