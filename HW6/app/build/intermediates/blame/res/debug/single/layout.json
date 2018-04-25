@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -16,12 +16,12 @@
         "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
@@ -40,16 +40,16 @@
         "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.1.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\Course\\AndroidStudioApplication\\AndroidAPP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
