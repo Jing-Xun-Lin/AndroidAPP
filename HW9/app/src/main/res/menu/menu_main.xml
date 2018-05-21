@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_music"
+        android:title="@string/music"
+        app:showAsAction="withText" >
+
+        <menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <item android:id="@+id/action_playMusic"
+                android:title="@string/playMusic"
+                app:showAsAction="withText"/>
+            <item android:id="@+id/action_stopPlaying"
+                android:title="@string/stopPlaying"
+                app:showAsAction="withText"/>
+        </menu>
+    </item>
+
+
+
+    <item android:id="@+id/action_about"
+        android:title="@string/about"
+        app:showAsAction="withText" />
+
+    <item android:id="@+id/action_finish"
+        android:title="@string/finish"
+        app:showAsAction="withText"/>
+
+</menu>
