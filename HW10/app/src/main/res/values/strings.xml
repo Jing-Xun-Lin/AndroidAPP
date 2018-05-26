@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">作業十:林敬勛</string>
+    <string name="searchName">search by name</string>
+    <string name="btnSubmit">Add a new contact</string>
+    <string name="Name">Name</string>
+    <string name="phoneNum">Phone Number</string>
+    <string name="phoneNumType">Type Of Phone Number</string>
+    <array name="phoneType">
+        <item>Mobile</item>
+        <item>Home</item>
+        <item>Office</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
